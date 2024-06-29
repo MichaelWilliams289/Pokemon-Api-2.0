@@ -1,6 +1,4 @@
-Certainly! Here's a sample `README.md` file for your Pokémon search application using React and the PokéAPI:
 
----
 
 # Pokémon Search Application
 
